@@ -16,6 +16,6 @@ para el curso de ingenieria de software en la Universidad de Lima.
 
 Mi pagina web: www.jsatch.com
 
-Comentarios y observaciones a mi correo hquintan@ulima.edu.pe o a hernan@jsatch.co.
+Comentarios y observaciones a mi correo hquintan@ulima.edu.pe o a hernan@jsatch.com.
 
 Enncantado de escuchar sus comentarios y observaciones!
